@@ -12,3 +12,7 @@ And add an entry to your hosts file, redirecting google.com to your proxy server
 ```bash
 www.google.it 1.2.3.4
 ```
+Clearly, your proxy server must be allowed to access the website.
+
+
+Have a safe browsing!
